@@ -8,6 +8,7 @@ Material referente a diciplinas e atividades feitas ao longo do curso de Engenha
 
 * [SisMed](https://github.com/akafael/mecatronica_unb/tree/unb-sismed): Sistemas de Medição
 * [TCM](https://github.com/akafael/mecatronica_unb/tree/unb-tcm): Transporte de Calor e Massa
+* [PTR](https://github.com/akafael/mecatronica_unb/tree/unb-ptr): Programação em Tempo Real
 
 ### Wayne State University
 

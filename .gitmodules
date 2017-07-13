@@ -1,0 +1,3 @@
+[submodule "trabalho_termopar"]
+	path = trabalho_termopar
+	url = https://github.com/akafael/sismed_termopar

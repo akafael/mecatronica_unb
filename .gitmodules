@@ -1,0 +1,3 @@
+[submodule "trabalhos"]
+	path = trabalhos
+	url = https://github.com/akafael/unb-ptr

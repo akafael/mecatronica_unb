@@ -6,7 +6,7 @@ Material referente a diciplinas e atividades feitas ao longo do curso de Engenha
 
 ### UnB
 
-    * [TCM](https://github.com/akafael/mecatronica_unb/tree/unb-tcm): Transporte de Calor e Massa
+* [TCM](https://github.com/akafael/mecatronica_unb/tree/unb-tcm): Transporte de Calor e Massa
 
 ### Wayne State University
 
